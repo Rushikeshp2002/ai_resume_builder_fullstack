@@ -60,16 +60,15 @@ const ResumeItem = ({ resume, refreshData }) => {
     <div>
       <Link to={`/dashboard/${user.email}/${resume.resumeId}/view`}>
         <div
-          className="p-14 bg-gradient-to-bl from-slate-300 to-slate-50 h-[280px] rounded-t-lg border-t-4"
+          className="p-14 bg-gradient-to-bl from-slate-200 to-slate-50  h-[280px] rounded-t-lg border-t-4"
           style={{
             borderColor: "rgb(76, 135, 255)",
           }}
         >
           <div className="flex items-center justify-center h-[180px]">
             <img
-              src="/src/assets/3d-cv-resume-icon_165488-4908-removebg-preview.png"
-              width={400}
-              height={400}
+              src="https://cdn-icons-png.flaticon.com/512/5988/5988999.png"
+              
               className="hover:rotate-6 hover:scale-125 transition-all"
             />
           </div>
