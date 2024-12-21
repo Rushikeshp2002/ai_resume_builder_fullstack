@@ -6,7 +6,7 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
   apiKey: "AIzaSyDM220RXcOTwIpRK8uxv5XwhSOcdcg03-k",
-  authDomain: "https://clevercv-resume01.netlify.app/",
+  authDomain: "clevercv-d6428.firebaseapp.com",
   projectId: "clevercv-d6428",
   storageBucket: "clevercv-d6428.firebasestorage.app",
   messagingSenderId: "860320432541",
